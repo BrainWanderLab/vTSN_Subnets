@@ -1,7 +1,6 @@
 # vTSN_Subnets
 Brain structural sub-networks parcellated based on the vTSN-coexpression correlation profiles
 
-![Uploading Figure6.jpg…]()
 
 The vTSN_Subnets are identified based on the following steps:
 
