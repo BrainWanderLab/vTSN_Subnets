@@ -2,7 +2,6 @@
 Brain structural sub-networks parcellated based on the vTSN-coexpression correlation profiles
 
 
-
 The vTSN_Subnets are identified based on the following steps:
 
 1. Construction voxel-based Texture Similarity Network (vTSN)
