@@ -1,0 +1,247 @@
+﻿vTSN_3subnets_names,vTSN_3subnets_Labels,vTSN_10subnets_names,vTSN_10subnets_Labels,BNA_area_names,BNA_Area_Labels
+ventral neocortex,1,ventral_1,1,SFG.L.7.1,1
+ventral neocortex,1,ventral_1,1,SFG.R.7.1,2
+dorsal neocortex,2,dorsal_1,4,SFG.L.7.2,3
+dorsal neocortex,2,dorsal_1,4,SFG.R.7.2,4
+ventral neocortex,1,ventral_1,1,SFG.L.7.3,5
+ventral neocortex,1,ventral_1,1,SFG.R.7.3,6
+dorsal neocortex,2,dorsal_2,5,SFG.L.7.4,7
+dorsal neocortex,2,dorsal_1,4,SFG.R.7.4,8
+dorsal neocortex,2,dorsal_3,6,SFG.L.7.5,9
+dorsal neocortex,2,dorsal_3,6,SFG.R.7.5,10
+ventral neocortex,1,ventral_1,1,SFG.L.7.6,11
+ventral neocortex,1,ventral_1,1,SFG.R.7.6,12
+ventral neocortex,1,ventral_1,1,SFG.L.7.7,13
+ventral neocortex,1,ventral_1,1,SFG.R.7.7,14
+dorsal neocortex,2,dorsal_1,4,MFG.L.7.1,15
+dorsal neocortex,2,dorsal_2,5,MFG.R.7.1,16
+dorsal neocortex,2,dorsal_1,4,MFG.L.7.2,17
+dorsal neocortex,2,dorsal_3,6,MFG.R.7.2,18
+ventral neocortex,1,ventral_1,1,MFG.L.7.3,19
+ventral neocortex,1,ventral_1,1,MFG.R.7.3,20
+dorsal neocortex,2,dorsal_1,4,MFG.L.7.4,21
+dorsal neocortex,2,dorsal_1,4,MFG.R.7.4,22
+dorsal neocortex,2,dorsal_1,4,MFG.L.7.5,23
+dorsal neocortex,2,dorsal_1,4,MFG.R.7.5,24
+dorsal neocortex,2,dorsal_2,5,MFG.L.7.6,25
+dorsal neocortex,2,dorsal_2,5,MFG.R.7.6,26
+ventral neocortex,1,ventral_1,1,MFG.L.7.7,27
+ventral neocortex,1,ventral_1,1,MFG.R.7.7,28
+dorsal neocortex,2,dorsal_3,6,IFG.L.6.1,29
+dorsal neocortex,2,dorsal_3,6,IFG.R.6.1,30
+dorsal neocortex,2,dorsal_1,4,IFG.L.6.2,31
+dorsal neocortex,2,dorsal_1,4,IFG.R.6.2,32
+dorsal neocortex,2,dorsal_1,4,IFG.L.6.3,33
+ventral neocortex,1,ventral_1,1,IFG.R.6.3,34
+ventral neocortex,1,ventral_1,1,IFG.L.6.4,35
+ventral neocortex,1,ventral_1,1,IFG.R.6.4,36
+ventral neocortex,1,ventral_2,2,IFG.L.6.5,37
+ventral neocortex,1,ventral_2,2,IFG.R.6.5,38
+ventral neocortex,1,ventral_1,1,IFG.L.6.6,39
+ventral neocortex,1,ventral_1,1,IFG.R.6.6,40
+ventral neocortex,1,ventral_1,1,OrG.L.6.1,41
+ventral neocortex,1,ventral_3,3,OrG.R.6.1,42
+ventral neocortex,1,ventral_1,1,OrG.L.6.2,43
+ventral neocortex,1,ventral_1,1,OrG.R.6.2,44
+ventral neocortex,1,ventral_1,1,OrG.L.6.3,45
+ventral neocortex,1,ventral_1,1,OrG.R.6.3,46
+ventral neocortex,1,ventral_1,1,OrG.L.6.4,47
+ventral neocortex,1,ventral_1,1,OrG.R.6.4,48
+subcortex-limbic,3,subcortex-limbic_1,8,OrG.L.6.5,49
+ventral neocortex,1,ventral_3,3,OrG.R.6.5,50
+ventral neocortex,1,ventral_1,1,OrG.L.6.6,51
+ventral neocortex,1,ventral_1,1,OrG.R.6.6,52
+dorsal neocortex,2,dorsal_2,5,PrG.L.6.1,53
+dorsal neocortex,2,dorsal_4,7,PrG.R.6.1,54
+dorsal neocortex,2,dorsal_3,6,PrG.L.6.2,55
+dorsal neocortex,2,dorsal_3,6,PrG.R.6.2,56
+dorsal neocortex,2,dorsal_4,7,PrG.L.6.3,57
+dorsal neocortex,2,dorsal_4,7,PrG.R.6.3,58
+dorsal neocortex,2,dorsal_2,5,PrG.L.6.4,59
+dorsal neocortex,2,dorsal_2,5,PrG.R.6.4,60
+ventral neocortex,1,ventral_1,1,PrG.L.6.5,61
+ventral neocortex,1,ventral_1,1,PrG.R.6.5,62
+dorsal neocortex,2,dorsal_1,4,PrG.L.6.6,63
+dorsal neocortex,2,dorsal_1,4,PrG.R.6.6,64
+dorsal neocortex,2,dorsal_2,5,PCL.L.2.1,65
+ventral neocortex,1,ventral_2,2,PCL.R.2.1,66
+dorsal neocortex,2,dorsal_3,6,PCL.L.2.2,67
+dorsal neocortex,2,dorsal_1,4,PCL.R.2.2,68
+ventral neocortex,1,ventral_3,3,STG.L.6.1,69
+subcortex-limbic,3,subcortex-limbic_1,8,STG.R.6.1,70
+dorsal neocortex,2,dorsal_3,6,STG.L.6.2,71
+dorsal neocortex,2,dorsal_3,6,STG.R.6.2,72
+dorsal neocortex,2,dorsal_1,4,STG.L.6.3,73
+dorsal neocortex,2,dorsal_1,4,STG.R.6.3,74
+ventral neocortex,1,ventral_1,1,STG.L.6.4,75
+ventral neocortex,1,ventral_1,1,STG.R.6.4,76
+ventral neocortex,1,ventral_3,3,STG.L.6.5,77
+ventral neocortex,1,ventral_3,3,STG.R.6.5,78
+ventral neocortex,1,ventral_1,1,STG.L.6.6,79
+ventral neocortex,1,ventral_1,1,STG.R.6.6,80
+ventral neocortex,1,ventral_3,3,MTG.L.4.1,81
+ventral neocortex,1,ventral_3,3,MTG.R.4.1,82
+ventral neocortex,1,ventral_3,3,MTG.L.4.2,83
+ventral neocortex,1,ventral_3,3,MTG.R.4.2,84
+ventral neocortex,1,ventral_1,1,MTG.L.4.3,85
+ventral neocortex,1,ventral_1,1,MTG.R.4.3,86
+ventral neocortex,1,ventral_3,3,MTG.L.4.4,87
+ventral neocortex,1,ventral_3,3,MTG.R.4.4,88
+ventral neocortex,1,ventral_3,3,ITG.L.7.1,89
+ventral neocortex,1,ventral_2,2,ITG.R.7.1,90
+ventral neocortex,1,ventral_3,3,ITG.L.7.2,91
+ventral neocortex,1,ventral_3,3,ITG.R.7.2,92
+ventral neocortex,1,ventral_3,3,ITG.L.7.3,93
+ventral neocortex,1,ventral_3,3,ITG.R.7.3,94
+ventral neocortex,1,ventral_3,3,ITG.L.7.4,95
+ventral neocortex,1,ventral_3,3,ITG.R.7.4,96
+ventral neocortex,1,ventral_1,1,ITG.L.7.5,97
+ventral neocortex,1,ventral_1,1,ITG.R.7.5,98
+ventral neocortex,1,ventral_3,3,ITG.L.7.6,99
+ventral neocortex,1,ventral_3,3,ITG.R.7.6,100
+ventral neocortex,1,ventral_3,3,ITG.L.7.7,101
+ventral neocortex,1,ventral_3,3,ITG.R.7.7,102
+subcortex-limbic,3,subcortex-limbic_1,8,FuG.L.3.1,103
+subcortex-limbic,3,subcortex-limbic_1,8,FuG.R.3.1,104
+ventral neocortex,1,ventral_2,2,FuG.L.3.2,105
+subcortex-limbic,3,subcortex-limbic_2,9,FuG.R.3.2,106
+ventral neocortex,1,ventral_2,2,FuG.L.3.3,107
+ventral neocortex,1,ventral_3,3,FuG.R.3.3,108
+subcortex-limbic,3,subcortex-limbic_1,8,PhG.L.6.1,109
+subcortex-limbic,3,subcortex-limbic_1,8,PhG.R.6.1,110
+subcortex-limbic,3,subcortex-limbic_1,8,PhG.L.6.2,111
+subcortex-limbic,3,subcortex-limbic_1,8,PhG.R.6.2,112
+subcortex-limbic,3,subcortex-limbic_1,8,PhG.L.6.3,113
+ventral neocortex,1,ventral_3,3,PhG.R.6.3,114
+subcortex-limbic,3,subcortex-limbic_1,8,PhG.L.6.4,115
+subcortex-limbic,3,subcortex-limbic_1,8,PhG.R.6.4,116
+subcortex-limbic,3,subcortex-limbic_2,9,PhG.L.6.5,117
+subcortex-limbic,3,subcortex-limbic_2,9,PhG.R.6.5,118
+ventral neocortex,1,ventral_3,3,PhG.L.6.6,119
+ventral neocortex,1,ventral_3,3,PhG.R.6.6,120
+ventral neocortex,1,ventral_2,2,pSTS.L.2.1,121
+ventral neocortex,1,ventral_2,2,pSTS.R.2.1,122
+dorsal neocortex,2,dorsal_3,6,pSTS.L.2.2,123
+ventral neocortex,1,ventral_1,1,pSTS.R.2.2,124
+dorsal neocortex,2,dorsal_1,4,SPL.L.5.1,125
+dorsal neocortex,2,dorsal_1,4,SPL.R.5.1,126
+dorsal neocortex,2,dorsal_2,5,SPL.L.5.2,127
+dorsal neocortex,2,dorsal_2,5,SPL.R.5.2,128
+dorsal neocortex,2,dorsal_2,5,SPL.L.5.3,129
+dorsal neocortex,2,dorsal_2,5,SPL.R.5.3,130
+dorsal neocortex,2,dorsal_2,5,SPL.L.5.4,131
+dorsal neocortex,2,dorsal_2,5,SPL.R.5.4,132
+dorsal neocortex,2,dorsal_2,5,SPL.L.5.5,133
+dorsal neocortex,2,dorsal_2,5,SPL.R.5.5,134
+dorsal neocortex,2,dorsal_2,5,IPL.L.6.1,135
+dorsal neocortex,2,dorsal_1,4,IPL.R.6.1,136
+dorsal neocortex,2,dorsal_2,5,IPL.L.6.2,137
+dorsal neocortex,2,dorsal_2,5,IPL.R.6.2,138
+dorsal neocortex,2,dorsal_2,5,IPL.L.6.3,139
+dorsal neocortex,2,dorsal_2,5,IPL.R.6.3,140
+dorsal neocortex,2,dorsal_1,4,IPL.L.6.4,141
+dorsal neocortex,2,dorsal_1,4,IPL.R.6.4,142
+dorsal neocortex,2,dorsal_2,5,IPL.L.6.5,143
+dorsal neocortex,2,dorsal_1,4,IPL.R.6.5,144
+dorsal neocortex,2,dorsal_2,5,IPL.L.6.6,145
+dorsal neocortex,2,dorsal_1,4,IPL.R.6.6,146
+dorsal neocortex,2,dorsal_2,5,PCun.L.4.1,147
+dorsal neocortex,2,dorsal_2,5,PCun.R.4.1,148
+dorsal neocortex,2,dorsal_2,5,PCun.L.4.2,149
+dorsal neocortex,2,dorsal_2,5,PCun.R.4.2,150
+dorsal neocortex,2,dorsal_2,5,PCun.L.4.3,151
+dorsal neocortex,2,dorsal_3,6,PCun.R.4.3,152
+ventral neocortex,1,ventral_2,2,PCun.L.4.4,153
+ventral neocortex,1,ventral_2,2,PCun.R.4.4,154
+dorsal neocortex,2,dorsal_2,5,PoG.L.4.1,155
+dorsal neocortex,2,dorsal_2,5,PoG.R.4.1,156
+ventral neocortex,1,ventral_1,1,PoG.L.4.2,157
+ventral neocortex,1,ventral_1,1,PoG.R.4.2,158
+dorsal neocortex,2,dorsal_2,5,PoG.L.4.3,159
+dorsal neocortex,2,dorsal_2,5,PoG.R.4.3,160
+dorsal neocortex,2,dorsal_2,5,PoG.L.4.4,161
+dorsal neocortex,2,dorsal_2,5,PoG.R.4.4,162
+subcortex-limbic,3,subcortex-limbic_2,9,INS.L.6.1,163
+subcortex-limbic,3,subcortex-limbic_2,9,INS.R.6.1,164
+subcortex-limbic,3,subcortex-limbic_3,10,INS.L.6.2,165
+subcortex-limbic,3,subcortex-limbic_3,10,INS.R.6.2,166
+subcortex-limbic,3,subcortex-limbic_3,10,INS.L.6.3,167
+subcortex-limbic,3,subcortex-limbic_3,10,INS.R.6.3,168
+subcortex-limbic,3,subcortex-limbic_3,10,INS.L.6.4,169
+subcortex-limbic,3,subcortex-limbic_3,10,INS.R.6.4,170
+subcortex-limbic,3,subcortex-limbic_3,10,INS.L.6.5,171
+subcortex-limbic,3,subcortex-limbic_3,10,INS.R.6.5,172
+subcortex-limbic,3,subcortex-limbic_3,10,INS.L.6.6,173
+subcortex-limbic,3,subcortex-limbic_3,10,INS.R.6.6,174
+subcortex-limbic,3,subcortex-limbic_2,9,CG.L.7.1,175
+subcortex-limbic,3,subcortex-limbic_2,9,CG.R.7.1,176
+ventral neocortex,1,ventral_2,2,CG.L.7.2,177
+ventral neocortex,1,ventral_2,2,CG.R.7.2,178
+subcortex-limbic,3,subcortex-limbic_1,8,CG.L.7.3,179
+subcortex-limbic,3,subcortex-limbic_1,8,CG.R.7.3,180
+ventral neocortex,1,ventral_2,2,CG.L.7.4,181
+ventral neocortex,1,ventral_2,2,CG.R.7.4,182
+ventral neocortex,1,ventral_3,3,CG.L.7.5,183
+ventral neocortex,1,ventral_3,3,CG.R.7.5,184
+subcortex-limbic,3,subcortex-limbic_2,9,CG.L.7.6,185
+subcortex-limbic,3,subcortex-limbic_2,9,CG.R.7.6,186
+subcortex-limbic,3,subcortex-limbic_1,8,CG.L.7.7,187
+subcortex-limbic,3,subcortex-limbic_1,8,CG.R.7.7,188
+dorsal neocortex,2,dorsal_2,5,MVOcC.L.5.1,189
+dorsal neocortex,2,dorsal_4,7,MVOcC.R.5.1,190
+dorsal neocortex,2,dorsal_4,7,MVOcC.L.5.2,191
+dorsal neocortex,2,dorsal_4,7,MVOcC.R.5.2,192
+dorsal neocortex,2,dorsal_4,7,MVOcC.L.5.3,193
+dorsal neocortex,2,dorsal_4,7,MVOcC.R.5.3,194
+dorsal neocortex,2,dorsal_1,4,MVOcC.L.5.4,195
+dorsal neocortex,2,dorsal_3,6,MVOcC.R.5.4,196
+dorsal neocortex,2,dorsal_2,5,MVOcC.L.5.5,197
+dorsal neocortex,2,dorsal_2,5,MVOcC.R.5.5,198
+dorsal neocortex,2,dorsal_2,5,LOcC.L.4.1,199
+dorsal neocortex,2,dorsal_2,5,LOcC.R.4.1,200
+dorsal neocortex,2,dorsal_2,5,LOcC.L.4.2,201
+dorsal neocortex,2,dorsal_1,4,LOcC.R.4.2,202
+dorsal neocortex,2,dorsal_2,5,LOcC.L.4.3,203
+dorsal neocortex,2,dorsal_2,5,LOcC.R.4.3,204
+dorsal neocortex,2,dorsal_2,5,LOcC.L.4.4,205
+dorsal neocortex,2,dorsal_2,5,LOcC.R.4.4,206
+dorsal neocortex,2,dorsal_2,5,LOcC.L.2.1,207
+dorsal neocortex,2,dorsal_2,5,LOcC.R.2.1,208
+dorsal neocortex,2,dorsal_2,5,LOcC.L.2.2,209
+dorsal neocortex,2,dorsal_2,5,LOcC.R.2.2,210
+subcortex-limbic,3,subcortex-limbic_2,9,Amyg.L.2.1,211
+subcortex-limbic,3,subcortex-limbic_2,9,Amyg.R.2.1,212
+subcortex-limbic,3,subcortex-limbic_3,10,Amyg.L.2.2,213
+subcortex-limbic,3,subcortex-limbic_3,10,Amyg.R.2.2,214
+subcortex-limbic,3,subcortex-limbic_2,9,Hipp.L.2.1,215
+subcortex-limbic,3,subcortex-limbic_2,9,Hipp.R.2.1,216
+subcortex-limbic,3,subcortex-limbic_1,8,Hipp.L.2.2,217
+subcortex-limbic,3,subcortex-limbic_1,8,Hipp.R.2.2,218
+subcortex-limbic,3,subcortex-limbic_3,10,BG.L.6.1,219
+subcortex-limbic,3,subcortex-limbic_3,10,BG.R.6.1,220
+subcortex-limbic,3,subcortex-limbic_2,9,BG.L.6.2,221
+subcortex-limbic,3,subcortex-limbic_2,9,BG.R.6.2,222
+subcortex-limbic,3,subcortex-limbic_2,9,BG.L.6.3,223
+subcortex-limbic,3,subcortex-limbic_2,9,BG.R.6.3,224
+subcortex-limbic,3,subcortex-limbic_2,9,BG.L.6.4,225
+subcortex-limbic,3,subcortex-limbic_2,9,BG.R.6.4,226
+subcortex-limbic,3,subcortex-limbic_3,10,BG.L.6.5,227
+subcortex-limbic,3,subcortex-limbic_3,10,BG.R.6.5,228
+subcortex-limbic,3,subcortex-limbic_2,9,BG.L.6.6,229
+subcortex-limbic,3,subcortex-limbic_2,9,BG.R.6.6,230
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.L.8.1,231
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.R.8.1,232
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.L.8.2,233
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.R.8.2,234
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.L.8.3,235
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.R.8.3,236
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.L.8.4,237
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.R.8.4,238
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.L.8.5,239
+subcortex-limbic,3,subcortex-limbic_3,10,Tha.R.8.5,240
+subcortex-limbic,3,subcortex-limbic_3,10,Tha.L.8.6,241
+subcortex-limbic,3,subcortex-limbic_3,10,Tha.R.8.6,242
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.L.8.7,243
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.R.8.7,244
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.L.8.8,245
+subcortex-limbic,3,subcortex-limbic_2,9,Tha.R.8.8,246
