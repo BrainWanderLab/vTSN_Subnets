@@ -1,7 +1,7 @@
 # vTSN_Subnets
 Brain structural sub-networks parcellated based on the vTSN-coexpression correlation profiles
 
-![alt text](https://github.com/BrainWanderLab/vTSN_Subnets/tree/main/atlases/vTSN_pipeline.jpg?raw=true)
+![alt text](https://github.com/BrainWanderLab/vTSN_Subnets/tree/main/atlases/vTSN_pipeline.jpg?raw=true?raw=true)
 
 The vTSN_Subnets are identified based on the following steps:
 
