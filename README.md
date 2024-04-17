@@ -1,10 +1,10 @@
-# vTSN-coexpression_Subnets
+# vTSN-coexpression Sub-networks
 Brain structural sub-networks parcellated based on the vTSN-coexpression correlation profiles
 
 ![vTSN_pipeline](https://github.com/BrainWanderLab/vTSN_Subnets/assets/107779317/43a601eb-c313-4885-a016-efee05561b22)
 
 
-The vTSN-coexpression_Subnets are identified based on the following steps:
+The vTSN-coexpression Sub-networks are identified based on the following steps:
 
 1. Construction voxel-based Texture Similarity Network (vTSN)
 
